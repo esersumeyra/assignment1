@@ -1,0 +1,47 @@
+label {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-inline-start: 10px;
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: #c0024242;
+}
+
+.inputClass {
+    border: 5px inset #c0024242 ;
+    width: 50%;
+    margin: 3px;
+}
+
+.buttonClass {
+    background-color: rgba(179, 179, 204, 0.308);
+    border: #c0024242 5px solid;
+    color: rgb(2, 19, 26);
+
+}
+
+.checkboxClass {
+    margin: 3px;
+    width: 10%;
+}
+
+p.paragraphClass {
+    font-family: cursive sans-serif;
+}
+.username {
+    border: 5px inset #c0024242 ;
+    width: 50%;
+    margin: 3px;
+}
+.password {
+    border: 5px inset #c0024242 ;
+    width: 50%;
+    margin: 3px;
+}
+.submitClass {
+    background-color: rgba(179, 179, 204, 0.308);
+    border: #c0024242 5px solid;
+    color: rgb(2, 19, 26);
+}
